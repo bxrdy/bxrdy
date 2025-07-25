@@ -1,7 +1,7 @@
 hello, i'm brijesh! &nbsp;👋🏽
 ========================
 
-## product owner &nbsp;|&nbsp; ai systems engineer
+## product owner &nbsp;|&nbsp; ai workflow engineer
 
 _i architect the **process** behind the product, then ship both._
 
