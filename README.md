@@ -22,7 +22,7 @@ some include: `chain-of-thought` · `reAct` · token-budgeting macros keep large
 ## 🏅 selected wins  
 * **supervisor audit prototype** – went from napkin sketch to stakeholder in a single afternoon; cut estimation time in half  
 * **ai | llm automation initiative** – playbooks & agents now used by **100 %** of the product team; prepping for an org-wide roll-out
-* **knowledge-base in motion** – notebookLM + fathom transcripts give every new hire a searchable, cited history of feature decisions
+* **knowledge-base in motion** – notebookLM + fathom gives every new hire a searchable, cited history of feature decisions
 
 ## 🛠️ tech & tools  
 `python` · `pytorch (in progress)` · `hugging face` · `colab | jupyter`  
