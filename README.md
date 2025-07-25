@@ -3,7 +3,7 @@ hello! &nbsp;👋🏽
 
 ## product owner &nbsp;|&nbsp; ai workflow engineer
 
-_i architect the **process** behind the product, then ship both._
+> _i architect the **process** behind the product, then ship both._
 
 ### 📬 why teams trust me
 * i bridge business vision, product design, and engineering execution – keeping multiple product lines moving forward in sync
