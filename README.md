@@ -5,7 +5,7 @@ hello, i'm brijesh! &nbsp;👋🏽
 
 _i architect the **process** behind the product, then ship both._
 
-### ✌🏽 why teams trust me
+### 📬 why teams trust me
 * i bridge business vision, product design, and engineering execution – keeping multiple product lines moving forward in sync
 * my work on the coca-cola integration rollout set the benchmark for future client deployments (and even gets referenced by execs).
 * i don't just automate; i build the frameworks (from schema to qa) that raise the team's bar for speed & clarity.
