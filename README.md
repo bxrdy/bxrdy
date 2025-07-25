@@ -20,7 +20,7 @@
 some include: `chain-of-thought` · `reAct` · token-budgeting macros keep large-context reasoning affordable. _all output passes a human QA checklist before it ever hits confluence or prod_  
 
 ## 🏅 selected wins  
-* **supervisor audit interactive prototype** – went from napkin sketch to stakeholder in a single afternoon; cut estimation meeting time in half  
+* **supervisor audit prototype** – went from napkin sketch to stakeholder in a single afternoon; cut estimation time in half  
 * **ai | llm automation initiative** – playbooks & agents now used by **100 %** of the product team; prepping for an org-wide roll-out
 * **knowledge-base in motion** – notebookLM + fathom transcripts give every new hire a searchable, cited history of feature decisions
 
