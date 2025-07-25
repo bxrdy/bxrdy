@@ -9,7 +9,7 @@
 * my work on the coca-cola integration rollout set the benchmark for future client deployments (even gets referenced by execs)
 * i don't just automate; i build the frameworks (from schema to qa) that raise the team's bar for speed & clarity
 
-## 🧩 engineering velocity (beyond "just run it through an llm")
+## 🧩 product velocity (beyond "just run it through an llm")
 | workflow bottleneck | my engineered fix | result |
 |---------------------|-------------------|--------|
 | static wireframes stuck in review cycles? | **iterative figma-make flow** (auto-layout prep + token-budgeted context-engineered prompts) | 5 days → **< 3 hrs** |
@@ -17,7 +17,7 @@
 | cross-team knowledge getting siloed? | **persona-tuned artifact generator** – adaptive recipient modeling, value-centric messaging | team now iterates on a 80 % first draft instead of a blank page |
 
 ### frameworks underneath
-some include: `chain-of-thought` · `reAct` · token-budgeting macros keep large-context reasoning affordable. _all output passes a human QA checklist before it ever hits confluence or prod_  
+methodologies include: `chain-of-thought` · `reAct` · token-budgeting macros keep large-context reasoning affordable. _all output passes a human QA checklist before it ever hits confluence or prod_  
 
 ## 🏅 selected wins  
 * **supervisor audit prototype** – went from napkin sketch to stakeholder in a single afternoon; cut estimation time in half  
