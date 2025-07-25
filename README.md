@@ -5,10 +5,10 @@ hello, i'm brijesh! &nbsp;👋🏽
 
 _i architect the **process** behind the product, then ship both._
 
-## 🎬 highlights  
-* **6 interconnected product lines** – road-mapped, specced, and released with 4 dev teams across 3 time zones
-* **enterprise integrations** – led the 12-month coca-cola equipment-service rollout adopted by **6+ bottlers** in north america
-* **ui/ux authority** – wireframes to polished flows w/ figma, then live, data-filled interactive prototypes in figma make
+### ✌🏽 why teams trust me
+* i bridge business vision, product design, and engineering execution – keeping multiple product lines moving forward in sync
+* my work on the coca-cola integration rollout set the benchmark for future client deployments (and even gets referenced by execs).
+* i don't just automate; i build the frameworks (from schema to qa) that raise the team's bar for speed & clarity.
 
 ## 🧩 engineering velocity (beyond "just run it through an llm")
 | workflow bottleneck | my engineered fix | result |
