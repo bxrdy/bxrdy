@@ -10,12 +10,12 @@ _i architect the **process** behind the product, then ship both._
 * **enterprise integrations** – led the 12-month coca-cola equipment-service rollout adopted by **6+ bottlers** in north america
 * **ui/ux authority** – wireframes to polished flows w/ figma, then live, data-filled interactive prototypes in figma make
 
-## 🧩 how i accelerate work (the part ai can't do for you)
+## 🧩 engineering velocity (beyond "just run it through an llm")
 | workflow bottleneck | my engineered fix | result |
 |---------------------|-------------------|--------|
-| lo-fi mockups → usable prototype | **figma make playbook** (auto-layout prep + step-wise context-engineered prompts) | 5 days → **< 3 hrs** |
-| endless "what did we ship?" asks | **custom agent** (11-element schema, gap detection, QA gate) | 60 min → **≈ 5 min** draft  |
-| jargon-dense release highlights | **custom agent** (persona-aware tone, benefit-first) | team now iterates on a 80 % first draft instead of a blank page |
+| static wireframes stuck in review cycles? | **iterative figma-make flow** (auto-layout prep + token-budgeted context-engineered prompts) | 5 days → **< 3 hrs** |
+| updates lost in translation? | **multi-dimensional snapshot agent** – 11-layer w/ gap-spotting & built-in qa checkpoint | 60 min → **≈ 5 min** draft  |
+| cross-team knowledge getting siloed? | **persona-tuned artifact generator** – adaptive recipient modeling, value-centric messaging | team now iterates on a 80 % first draft instead of a blank page |
 
 ### frameworks underneath
 some include: `chain-of-thought` · `reAct` · token-budgeting macros keep large-context reasoning affordable. _all output passes a human QA checklist before it ever hits confluence or prod_  
