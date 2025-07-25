@@ -1,4 +1,4 @@
-hello, i'm brijesh! &nbsp;👋🏽
+hello! &nbsp;👋🏽
 ========================
 
 ## product owner &nbsp;|&nbsp; ai workflow engineer
