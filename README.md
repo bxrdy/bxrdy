@@ -2,7 +2,7 @@
 _I ship features & fine-tune the models behind them!_
 
     about_me:
-      current_role : Product Owner @ VIP — our code moves the world's favorite drinks (including Coca-Cola & AB InBev)
+      current_role : Product Owner @ VIP — our code moves the world's favorite drinks (Coca-Cola, AB InBev..)
       next_goal    : Build products smart enough to write their own specs
       recent_win   : Coca-Cola integration framework (now the enterprise rollout blueprint)
 
