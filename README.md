@@ -1,5 +1,5 @@
 # hello 👋🏽  
-_I'm a product owner who ships features & fine-tunes the models behind them_
+_I ship features & fine-tune the models behind them!_
 
     about_me:
       current_role : Product Owner
