@@ -2,12 +2,11 @@
 _I ship features & fine-tune the models behind them!_
 
     about_me:
-      current_role : Product Owner
+      current_role : Product Owner @ VIP — our code moves the world's favorite drinks (including Coca-Cola & AB InBev)
       next_goal    : Build products smart enough to write their own specs
-      recent_win   : Coca-Cola integration framework (now the rollout blueprint)
+      recent_win   : Coca-Cola integration framework (now the enterprise rollout blueprint)
 
-![learning PyTorch](https://img.shields.io/badge/learning-pytorch-orange?logo=pytorch&logoColor=white)
-
+[![learning PyTorch](https://img.shields.io/badge/learning-pytorch-orange?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ### tiny KPIs (because everyone loves numbers)
 
@@ -35,10 +34,10 @@ _I ship features & fine-tune the models behind them!_
 <details>
 <summary>roadmap backlog (click for side-quests)</summary>
 
-- [x] Coca-Cola rollout blueprint  
+- [x] [bipolar-guardian](https://github.com/bxrdy/bipolar-guardian.git) application [will open-source soon]
 - [x] Automation macros for prompt budgeting  
-- [ ] MOE-powered spec generator  
-- [ ] [bipolar-guardian](https://github.com/bxrdy/bipolar-guardian.git) application [will open-source soon]
+- [ ] Design a Mixture-of-Experts agent: expert context, minimal noise 
+- [ ] Build spaces w/ sentences: VR/AR + LLM/MoE turns prompts into new worlds [ambitious but plausible]
 
 </details>
 
