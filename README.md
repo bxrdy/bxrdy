@@ -3,7 +3,7 @@ _I ship features & fine-tune the models behind them!_
 
     about_me:
       current_role : Product Owner
-      next_goal    : Ship products smart enough to write their own specs
+      next_goal    : Build products smart enough to write their own specs
       recent_win   : Coca-Cola integration framework (now the rollout blueprint)
 
 ![learning PyTorch](https://img.shields.io/badge/learning-pytorch-orange?logo=pytorch&logoColor=white)
