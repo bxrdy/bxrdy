@@ -2,7 +2,7 @@
 _Getting good at shipping features on time!_
 
     about_me:
-      current_role : Product Owner @ VIP — our code moves the world's favorite drinks (Coke, AB InBev..)
+      current_role : Business Analyst @ VIP — our code moves the world's favorite drinks (Coke, AB InBev..)
       next_goal    : Build products smart enough to write their own specs
 
 ### toolbox  
